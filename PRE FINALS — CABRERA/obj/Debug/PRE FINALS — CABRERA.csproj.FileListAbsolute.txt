@@ -1,0 +1,13 @@
+C:\Users\ComputerLab4PC1\source\repos\PRE FINALS — CABRERA\bin\Debug\PRE FINALS — CABRERA.exe.config
+C:\Users\ComputerLab4PC1\source\repos\PRE FINALS — CABRERA\bin\Debug\PRE FINALS — CABRERA.exe
+C:\Users\ComputerLab4PC1\source\repos\PRE FINALS — CABRERA\bin\Debug\PRE FINALS — CABRERA.pdb
+C:\Users\ComputerLab4PC1\source\repos\PRE FINALS — CABRERA\obj\Debug\PRE FINALS — CABRERA.csprojAssemblyReference.cache
+C:\Users\ComputerLab4PC1\source\repos\PRE FINALS — CABRERA\obj\Debug\PRE_FINALS___CABRERA.FrmFileName.resources
+C:\Users\ComputerLab4PC1\source\repos\PRE FINALS — CABRERA\obj\Debug\PRE_FINALS___CABRERA.FrmLab1.resources
+C:\Users\ComputerLab4PC1\source\repos\PRE FINALS — CABRERA\obj\Debug\PRE_FINALS___CABRERA.FrmRegistration.resources
+C:\Users\ComputerLab4PC1\source\repos\PRE FINALS — CABRERA\obj\Debug\PRE_FINALS___CABRERA.Properties.Resources.resources
+C:\Users\ComputerLab4PC1\source\repos\PRE FINALS — CABRERA\obj\Debug\PRE FINALS — CABRERA.csproj.GenerateResource.cache
+C:\Users\ComputerLab4PC1\source\repos\PRE FINALS — CABRERA\obj\Debug\PRE FINALS — CABRERA.exe
+C:\Users\ComputerLab4PC1\source\repos\PRE FINALS — CABRERA\obj\Debug\PRE FINALS — CABRERA.pdb
+C:\Users\ComputerLab4PC1\source\repos\PRE FINALS — CABRERA\obj\Debug\PRE_FINALS___CABRERA.FrmOpenTextFile.resources
+C:\Users\ComputerLab4PC1\source\repos\PRE FINALS — CABRERA\obj\Debug\PRE_FINALS___CABRERA.FrmStudentRecord.resources
